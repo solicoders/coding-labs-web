@@ -1,0 +1,4 @@
+# lab-crud-laravel-basic
+
+## livrable 
+[lab-crud-laravel-basic](https://github.com/zaani12/Lab-crud-basic)
